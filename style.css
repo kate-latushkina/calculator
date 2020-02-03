@@ -5,7 +5,7 @@ body{
 }
 #container{
     width: 100%;
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bgImg.jpg);
+	background-image: grey;
 	padding-bottom: 200px;
 }
 #calculator{
